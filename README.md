@@ -1,10 +1,10 @@
 # VestibularEpitheliaModel
 
-Welcome to the file repository for the research paper: "Close Packing of Cells in Vestibular Epithelia Supports Local Electrical Potentials that Reduce Latency of Action Potential Generation"
+Welcome to the file repository for the research paper: "**Close Packing of Cells in Vestibular Epithelia Supports Local Electrical Potentials that Reduce Latency of Action Potential Generation**__"
 
 **Paper Status:** Preprint available on bioRxiv (June 15, 2025): https://www.biorxiv.org/content/10.1101/2025.06.14.659580v1
 
-**Repository Status (June 15, 2025)**: Model files awaiting upload. Please check back later or send me an email.
+**Repository Status (June 15, 2025)**: Model files are still being prepared for upload. Please check back later or send me an email.
 
 For questions, assistance, or bug reports please feel free to contact me at: user@domain.edu ; user = ag105; domain = rice; or at: user@gmail.com; user = g.aravind.c
 
