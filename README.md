@@ -1,6 +1,6 @@
 # VestibularEpitheliaModel
 
-Welcome to the file repository for the research paper: "Nonquantal Transmission at the Vestibular Hair Cell-Calyx Synapse: KLV Currents Modulate Fast Electrical and Slow K+ Potentials"
+Welcome to the file repository for the research paper: "Close Packing of Cells in Vestibular Epithelia Supports Local Electrical Potentials that Reduce Latency of Action Potential Generation"
 
 Paper Status: Preprint available on bioRxiv (June 15, 2025): https://www.biorxiv.org/content/10.1101/2025.06.14.659580v1
 
